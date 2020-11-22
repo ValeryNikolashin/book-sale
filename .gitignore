@@ -1,0 +1,22 @@
+syntax: glob
+bin/*
+Bin/*
+obj/*
+Packages/*
+packages/*
+node_modules/*
+app/dist/*
+app/dist/app/*
+.vs/*
+.idea/*
+.design/*.eap
+.log
+.suo
+.svclog
+.user
+.orig
+.pdb
+.exe
+.min.js
+.js
+.js.map
