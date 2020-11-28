@@ -1,0 +1,27 @@
+<div class="h1Div">
+  <h1>Книги, участвующие в распродаже
+    <button type="button" class="btn btn-dark btn-circle" title="Добавить новую книгу" (click)="createBook()">
+      <i class="fa fa-plus fa-lg"></i>
+    </button>
+  </h1>
+</div>
+<div class="container">
+  <div class="row">
+    <div *ngFor="let book of books" class = "col-xl-3 col-lg-4 col-md-6 col-sm-12 col-6">
+      <div class="btn card border-dark" (click)="editBook(book.id)" title="Перейти к редактированию">
+        <div class="card-header bg-dark text-white">
+          «{{book.name}}»
+        </div>
+        <img class="card-img-top" [attr.src]="book.picture" [attr.alt]="book.author + '«' +book.name+'»'">
+        <div class="card-body">
+          <div class="card-text col-6 d-inline-block text-left">
+            {{book.cost}} ₽
+          </div>
+          <div class="card-text col-6 d-inline-block text-right">
+            {{book.count}} шт.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

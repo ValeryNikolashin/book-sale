@@ -1,0 +1,16 @@
+<div class="card border-dark mx-auto authorization-block">
+  <div class="card-header bg-dark text-white">
+    Авторизация
+  </div>
+  <div class="card-body">
+    <form>
+      <div class="form-group">
+        <label for="login">Ваш логин:</label>
+        <input type="text" class="form-control" id="login" placeholder="Введите логин..." name="login" [(ngModel)]="login">
+        <label for="password">Ваш пароль:</label>
+        <input type="password" class="form-control" id="password" placeholder="Введите пароль..." name="password" [(ngModel)]="password">
+      </div>
+      <button class="btn btn-dark btn-block" (click)="logIn()">Войти</button>
+    </form>
+  </div>
+</div>

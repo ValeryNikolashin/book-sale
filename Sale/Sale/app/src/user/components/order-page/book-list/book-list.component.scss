@@ -1,0 +1,41 @@
+.card{
+   width: 200px;
+   height: auto;
+   margin: 0 auto 40px auto!important;
+   display: block;
+ }
+
+.card-img-top{
+  width: 100%;
+  height: 250px;
+}
+
+.card-header{
+  padding: 5px;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card-body{
+  padding: 0 5px 5px 5px;
+}
+
+.col-6{
+  padding: 0;
+}
+
+.sale{
+  text-align: center;
+  font-family: cursive;
+}
+
+h1{
+  margin: 23px;
+}
+
+img{
+  border-radius: 0;
+}
+

@@ -1,0 +1,15 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+  <div class = "col-xs-6 col-sm-6 col-md-6 col-lg-6">
+    <a class="navbar-brand" routerLink="">Сэйлы!</a>
+    <div *ngIf="isAuthorized" class="navbar-div navbar-text">
+      Ваш промокод: {{promoCode}}
+    </div>
+    <div *ngIf="isAdminAuthorised" class="navbar-div navbar-text">
+      {{adminLogin}}
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+    <button *ngIf="isAuthorized" class="btn btn-outline-light" (click)="logOut()">Выйти</button>
+    <button *ngIf="isAdminAuthorised" class="btn btn-outline-light" (click)="adminLogOut()">Выйти</button>
+  </div>
+</nav>

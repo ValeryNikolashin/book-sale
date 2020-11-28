@@ -1,0 +1,29 @@
+<div class = "sale">
+  <h1>Распродажа книг</h1>
+</div>
+<div class="container">
+  <div class="row">
+    <div *ngFor="let book of books" class = "col-xl-3 col-lg-4 col-md-6 col-sm-12 col-6">
+      <div class="card border-dark">
+        <div class="card-header bg-dark text-white" [attr.title]="'«'+book.name+'» ' +book.author">
+          «{{book.name}}»
+        </div>
+        <img class="card-img-top" [attr.src]="book.picture" [attr.alt]="book.author + '«' +book.name+'»'">
+        <div class="card-body">
+          <div class="card-text col-6 d-inline-block text-left">
+            {{book.cost}} ₽
+          </div>
+          <div class="card-text col-6 d-inline-block text-right">
+            {{book.count}} шт.
+          </div>
+          <button *ngIf="!locatedInBasket(book.id)" [disabled]="disabledBookButton" class="btn btn-success btn-block" (click)="onAddToBasket(book.id)">
+            Добавить в корзину
+          </button>
+          <button *ngIf="locatedInBasket(book.id)" [disabled]="disabledBookButton" class="btn btn-outline-dark btn-block"
+                  (click)="onDeleteFromBasket(book.id)">Добавлено
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,81 @@
+.card{
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border: 2px solid;
+}
+
+.card-img-top{
+  height: 250px;
+}
+
+.card-header{
+  padding: 5px;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card-body{
+  padding: 0 5px 5px 5px;
+}
+
+.col-6{
+  padding: 0;
+}
+
+#basket-body{
+  overflow: auto;
+  height: 100%;
+}
+
+#basket-body::-webkit-scrollbar{
+  background-color: white;
+  width: 10px;
+}
+
+#basket-body::-webkit-scrollbar-thumb{
+  background-color: #343a40;
+}
+
+
+.basket-header{
+  padding: 5px;
+  text-align: center;
+  color:white;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+
+.basket-container{
+  height: 100%;
+}
+
+.order-button{
+  border-radius: 0;
+  border-bottom: 1px solid white;
+}
+
+img{
+  border-radius: 0;
+}
+
+.waiting{
+  @extend %padding10px;
+  width: 100%;
+  height: auto;
+  text-align: justify;
+  border-bottom: 1px solid white;
+}
+
+%padding10px{
+  padding: 10px;
+}
+
+.list-book{
+  @extend %padding10px;
+}

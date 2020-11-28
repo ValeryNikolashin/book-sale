@@ -1,0 +1,332 @@
+E:\Учебный проект. Николашин\Sale\User\bin\User.dll
+E:\Учебный проект. Николашин\Sale\User\bin\User.pdb
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\csc.exe
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\csc.exe.config
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\csc.rsp
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\csi.exe
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\csi.exe.config
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\csi.rsp
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.AppContext.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Collections.Immutable.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Console.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.Compression.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.FileSystem.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.Pipes.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Reflection.Metadata.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.AccessControl.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Claims.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.ValueTuple.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.XPath.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\vbc.exe
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\vbc.exe.config
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\vbc.rsp
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\VBCSCompiler.exe
+E:\Учебный проект. Николашин\Sale\User\bin\roslyn\VBCSCompiler.exe.config
+E:\Учебный проект. Николашин\Sale\User\bin\Antlr3.Runtime.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Autofac.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Autofac.Integration.WebApi.dll
+E:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.dll
+E:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.SqlServer.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Security.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Web.Infrastructure.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Newtonsoft.Json.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Owin.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Net.Http.Formatting.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Threading.Tasks.Extensions.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Helpers.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.WebHost.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Mvc.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Optimization.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Razor.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Deployment.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.dll
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Razor.dll
+E:\Учебный проект. Николашин\Sale\User\bin\WebGrease.dll
+E:\Учебный проект. Николашин\Sale\User\bin\Autofac.pdb
+E:\Учебный проект. Николашин\Sale\User\bin\Autofac.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Autofac.Integration.WebApi.pdb
+E:\Учебный проект. Николашин\Sale\User\bin\Autofac.Integration.WebApi.xml
+E:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.xml
+E:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.SqlServer.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Security.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Net.Http.Formatting.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Threading.Tasks.Extensions.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.WebHost.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Helpers.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Mvc.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Optimization.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.Razor.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Deployment.xml
+E:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Razor.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Newtonsoft.Json.xml
+E:\Учебный проект. Николашин\Sale\User\bin\Antlr3.Runtime.pdb
+E:\Учебный проект. Николашин\Sale\User\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Учебный проект. Николашин\Sale\User\obj\Debug\User.csprojAssemblyReference.cache
+E:\Учебный проект. Николашин\Sale\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+E:\Учебный проект. Николашин\Sale\User\obj\Debug\User.csproj.CopyComplete
+E:\Учебный проект. Николашин\Sale\User\obj\Debug\User.dll
+E:\Учебный проект. Николашин\Sale\User\obj\Debug\User.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\User.dll
+D:\Учебный проект. Николашин\Sale\User\bin\User.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\csc.exe
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\csc.exe.config
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\csc.rsp
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\csi.exe
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\csi.exe.config
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\csi.rsp
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.AppContext.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Collections.Immutable.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Console.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.Compression.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.FileSystem.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.IO.Pipes.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.AccessControl.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Claims.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.ValueTuple.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.XPath.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\vbc.exe
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\vbc.exe.config
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\vbc.rsp
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\VBCSCompiler.exe
+D:\Учебный проект. Николашин\Sale\User\bin\roslyn\VBCSCompiler.exe.config
+D:\Учебный проект. Николашин\Sale\User\bin\Antlr3.Runtime.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Autofac.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Autofac.Integration.WebApi.dll
+D:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.dll
+D:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.SqlServer.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Security.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Web.Infrastructure.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Newtonsoft.Json.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Owin.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Net.Http.Formatting.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Threading.Tasks.Extensions.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Helpers.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.WebHost.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Mvc.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Optimization.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Razor.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Deployment.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.dll
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Razor.dll
+D:\Учебный проект. Николашин\Sale\User\bin\WebGrease.dll
+D:\Учебный проект. Николашин\Sale\User\bin\Autofac.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\Autofac.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Autofac.Integration.WebApi.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\Autofac.Integration.WebApi.xml
+D:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.xml
+D:\Учебный проект. Николашин\Sale\User\bin\EntityFramework.SqlServer.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.Owin.Security.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Net.Http.Formatting.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Threading.Tasks.Extensions.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Http.WebHost.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Helpers.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Mvc.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Optimization.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.Razor.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Deployment.xml
+D:\Учебный проект. Николашин\Sale\User\bin\System.Web.WebPages.Razor.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Newtonsoft.Json.xml
+D:\Учебный проект. Николашин\Sale\User\bin\Antlr3.Runtime.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учебный проект. Николашин\Sale\User\obj\Debug\User.csprojAssemblyReference.cache
+D:\Учебный проект. Николашин\Sale\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\Учебный проект. Николашин\Sale\User\obj\Debug\User.csproj.CopyComplete
+D:\Учебный проект. Николашин\Sale\User\obj\Debug\User.dll
+D:\Учебный проект. Николашин\Sale\User\obj\Debug\User.pdb
+D:\Учебный проект. Николашин\Sale\User\bin\User.dll.config
+D:\Sale\User\bin\User.dll.config
+D:\Sale\User\bin\User.dll
+D:\Sale\User\bin\User.pdb
+D:\Sale\User\bin\roslyn\csc.exe
+D:\Sale\User\bin\roslyn\csc.exe.config
+D:\Sale\User\bin\roslyn\csc.rsp
+D:\Sale\User\bin\roslyn\csi.exe
+D:\Sale\User\bin\roslyn\csi.exe.config
+D:\Sale\User\bin\roslyn\csi.rsp
+D:\Sale\User\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sale\User\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sale\User\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sale\User\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sale\User\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sale\User\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sale\User\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sale\User\bin\roslyn\System.AppContext.dll
+D:\Sale\User\bin\roslyn\System.Collections.Immutable.dll
+D:\Sale\User\bin\roslyn\System.Console.dll
+D:\Sale\User\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sale\User\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sale\User\bin\roslyn\System.IO.Compression.dll
+D:\Sale\User\bin\roslyn\System.IO.FileSystem.dll
+D:\Sale\User\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sale\User\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sale\User\bin\roslyn\System.IO.Pipes.dll
+D:\Sale\User\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sale\User\bin\roslyn\System.Security.AccessControl.dll
+D:\Sale\User\bin\roslyn\System.Security.Claims.dll
+D:\Sale\User\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sale\User\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sale\User\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sale\User\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sale\User\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sale\User\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sale\User\bin\roslyn\System.ValueTuple.dll
+D:\Sale\User\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sale\User\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sale\User\bin\roslyn\System.Xml.XPath.dll
+D:\Sale\User\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sale\User\bin\roslyn\vbc.exe
+D:\Sale\User\bin\roslyn\vbc.exe.config
+D:\Sale\User\bin\roslyn\vbc.rsp
+D:\Sale\User\bin\roslyn\VBCSCompiler.exe
+D:\Sale\User\bin\roslyn\VBCSCompiler.exe.config
+D:\Sale\User\bin\Antlr3.Runtime.dll
+D:\Sale\User\bin\Autofac.dll
+D:\Sale\User\bin\Autofac.Integration.WebApi.dll
+D:\Sale\User\bin\EntityFramework.dll
+D:\Sale\User\bin\EntityFramework.SqlServer.dll
+D:\Sale\User\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Sale\User\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sale\User\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sale\User\bin\Microsoft.Owin.dll
+D:\Sale\User\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sale\User\bin\Microsoft.Owin.Security.dll
+D:\Sale\User\bin\Microsoft.Web.Infrastructure.dll
+D:\Sale\User\bin\Newtonsoft.Json.dll
+D:\Sale\User\bin\Owin.dll
+D:\Sale\User\bin\System.Net.Http.Formatting.dll
+D:\Sale\User\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sale\User\bin\System.Threading.Tasks.Extensions.dll
+D:\Sale\User\bin\System.Web.Helpers.dll
+D:\Sale\User\bin\System.Web.Http.dll
+D:\Sale\User\bin\System.Web.Http.WebHost.dll
+D:\Sale\User\bin\System.Web.Mvc.dll
+D:\Sale\User\bin\System.Web.Optimization.dll
+D:\Sale\User\bin\System.Web.Razor.dll
+D:\Sale\User\bin\System.Web.WebPages.Deployment.dll
+D:\Sale\User\bin\System.Web.WebPages.dll
+D:\Sale\User\bin\System.Web.WebPages.Razor.dll
+D:\Sale\User\bin\WebGrease.dll
+D:\Sale\User\bin\Autofac.pdb
+D:\Sale\User\bin\Autofac.xml
+D:\Sale\User\bin\Autofac.Integration.WebApi.pdb
+D:\Sale\User\bin\Autofac.Integration.WebApi.xml
+D:\Sale\User\bin\EntityFramework.xml
+D:\Sale\User\bin\EntityFramework.SqlServer.xml
+D:\Sale\User\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Sale\User\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Sale\User\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Sale\User\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sale\User\bin\Microsoft.Owin.xml
+D:\Sale\User\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sale\User\bin\Microsoft.Owin.Security.xml
+D:\Sale\User\bin\System.Net.Http.Formatting.xml
+D:\Sale\User\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sale\User\bin\System.Threading.Tasks.Extensions.xml
+D:\Sale\User\bin\System.Web.Http.xml
+D:\Sale\User\bin\System.Web.Http.WebHost.xml
+D:\Sale\User\bin\System.Web.Helpers.xml
+D:\Sale\User\bin\System.Web.Mvc.xml
+D:\Sale\User\bin\System.Web.Optimization.xml
+D:\Sale\User\bin\System.Web.Razor.xml
+D:\Sale\User\bin\System.Web.WebPages.xml
+D:\Sale\User\bin\System.Web.WebPages.Deployment.xml
+D:\Sale\User\bin\System.Web.WebPages.Razor.xml
+D:\Sale\User\bin\Newtonsoft.Json.xml
+D:\Sale\User\bin\Antlr3.Runtime.pdb
+D:\Sale\User\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sale\User\obj\Debug\User.csprojAssemblyReference.cache
+D:\Sale\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\Sale\User\obj\Debug\User.csproj.CopyComplete
+D:\Sale\User\obj\Debug\User.dll
+D:\Sale\User\obj\Debug\User.pdb

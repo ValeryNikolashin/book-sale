@@ -1,0 +1,15 @@
+<div class="card border-dark mx-auto authorization-block">
+  <div class="card-header bg-dark text-white">
+    Авторизация
+  </div>
+  <div class="card-body">
+    <form>
+      <div class="form-group">
+        <label for="promoCode">Ваш промокод:</label>
+        <input type="text" class="form-control" id="promoCode" placeholder="Введите промокод..." name="promoCode" [(ngModel)]="promoCode">
+      </div>
+      <button class="btn btn-dark btn-block" (click)="logIn()">Войти</button>
+      <button class="btn btn-outline-dark btn-block" (click)="getPromoCode()">Получить промокод</button>
+    </form>
+  </div>
+</div>

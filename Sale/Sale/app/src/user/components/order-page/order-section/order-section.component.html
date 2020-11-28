@@ -1,0 +1,28 @@
+<div class = "basket-container border-light bg-dark">
+  <div class="basket-header bg-dark border-light">
+    Корзина
+  </div>
+  <div *ngIf="showRegisterText" class="bg-info waiting text-white">Чтобы оформить заказ, необходимо набрать книг на сумму от 2000₽.<br> Текущая сумма заказа: {{orderCost}}₽.</div>
+  <button *ngIf="showRegisterButton" class="btn btn-success btn-block order-button" (click)="onRegisterOrder()" >Оформить заказ ({{orderCost}}₽)</button>
+  <div *ngIf="showWaitingText" class="bg-info waiting text-white" >Заказ ожидает обработки. Пока происходит обработка вы не можете изменять содержимое корзины.
+    Обычно обработка занимает от 30 секунд до 1 минуты. По завершению обработки появится ссылка на оплату заказа. Благодарим за ожидание.
+  </div>
+  <button *ngIf="showPaymentButton" (click)="toPay()" class="btn btn-success btn-block order-button">Оплатить заказ ({{orderCost}}₽)</button>
+  <div class="bg-dark border-light" id = basket-body>
+    <div class="list-book">
+      <div *ngFor="let book of orderBooks" class = "card border-light child-card bg-dark">
+        <div class="card-header text-white child-card-header" [attr.title]="'«'+book.name+'» ' +book.author">
+          «{{book.name}}»
+        </div>
+        <img class="card-img-top child-card-img-top" [attr.src]="book.picture" [attr.alt]="book.author + '«' +book.name+'»'">
+        <div class="card-body child-card-body">
+          <div class="card-text col-6 text-success text-left">
+            {{book.cost}} ₽
+          </div>
+          <button [disabled]="disabledBookButton" class="btn btn-outline-light btn-block" (click)="onDeleteFromBasket(book.id)">Убрать из корзины</button>
+          <!--<button *ngIf="!book.isAlreadyInBasket" class="btn btn-success btn-block" (click)="onAddToBasket(book.id)">Вернуть</button>-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
